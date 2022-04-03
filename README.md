@@ -1,1 +1,1 @@
-Simple Calculator with Dark and Light themes
+#Simple Calculator with Dark and Light themes
